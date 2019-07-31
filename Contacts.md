@@ -1,8 +1,8 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+title: Contacts
+layout: generic
+description: 'How to get in touch'
+image: assets/images/contact.jpg
 nav-menu: true
 ---
 
